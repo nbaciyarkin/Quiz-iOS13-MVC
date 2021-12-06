@@ -1,2 +1,2 @@
 # Quiz-iOS13-MVC
-to understanding MVC design pattern without to networking 
+iOS Quiz project to understand MVC design patterns with the hard coding.
