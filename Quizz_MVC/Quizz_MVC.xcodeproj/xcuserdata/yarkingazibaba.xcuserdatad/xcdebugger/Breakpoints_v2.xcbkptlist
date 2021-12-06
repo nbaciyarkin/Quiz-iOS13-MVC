@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9BA328C7-E1E0-4856-9042-18F5A0C9F855"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FB9C01E2-4131-4317-9AA3-DB1F086D25CB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Quizz_MVC/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "FB9C01E2-4131-4317-9AA3-DB1F086D25CB - 6627315a016f281b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Quizz_MVC.ViewController.progressBar.getter : Swift.Optional&lt;__C.UIProgressView&gt;"
+                  moduleName = "Quizz_MVC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yarkingazibaba/Desktop/Quizz_MVC/Quizz_MVC/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "FB9C01E2-4131-4317-9AA3-DB1F086D25CB - c317399241f53007"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Quizz_MVC.ViewController.progressBar.setter : Swift.Optional&lt;__C.UIProgressView&gt;"
+                  moduleName = "Quizz_MVC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yarkingazibaba/Desktop/Quizz_MVC/Quizz_MVC/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "FB9C01E2-4131-4317-9AA3-DB1F086D25CB - 6ba3979a44dfe826"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Quizz_MVC.ViewController.progressBar.modify : Swift.Optional&lt;__C.UIProgressView&gt;"
+                  moduleName = "Quizz_MVC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yarkingazibaba/Desktop/Quizz_MVC/Quizz_MVC/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "FB9C01E2-4131-4317-9AA3-DB1F086D25CB - 7bb1c35e744560cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Quizz_MVC.ViewController.progressBar.modify : Swift.Optional&lt;__C.UIProgressView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Quizz_MVC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yarkingazibaba/Desktop/Quizz_MVC/Quizz_MVC/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "FB9C01E2-4131-4317-9AA3-DB1F086D25CB - 6ceb786aeaa6cf1b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Quizz_MVC.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Quizz_MVC.ViewController"
+                  moduleName = "Quizz_MVC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yarkingazibaba/Desktop/Quizz_MVC/Quizz_MVC/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "328">
+               </Location>
+               <Location
+                  uuid = "FB9C01E2-4131-4317-9AA3-DB1F086D25CB - b2c484e4433ab357"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Quizz_MVC.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Quizz_MVC.ViewController&gt;"
+                  moduleName = "Quizz_MVC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yarkingazibaba/Desktop/Quizz_MVC/Quizz_MVC/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "304">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
